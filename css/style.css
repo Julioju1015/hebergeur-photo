@@ -1,0 +1,34 @@
+html, body{
+    margin: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+header{
+    text-align: center;
+    background: red;
+}
+h1{
+    text-align: center;
+    margin-top: 0;
+}
+h2{
+    color: white;
+}
+.container{
+    width: 500px;
+    margin: auto;
+}
+article{
+    margin-top: 50px;
+    background: #f7f7f7;
+    padding: 20px;
+}
+input{
+    margin-top: 20px;
+}
+#cadreImage{
+    text-align: center;
+}
+#imageSend{
+    max-width: 100px;
+}
